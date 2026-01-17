@@ -5,19 +5,32 @@
 <h1 align="center">WindowsGSM.Factorio</h1>
 
 <p align="center">
-  A fully updated and modernized WindowsGSM plugin for hosting Factorio Dedicated Servers.
-</p>
 
-<p align="center">
-  <a href="https://github.com/YOURNAME/WindowsGSM.Factorio-main/releases">
-    <img src="https://img.shields.io/github/v/release/YOURNAME/WindowsGSM.Factorio-main?color=gold&label=version" alt="Version">
+  <!-- Latest Release -->
+  <a href="https://github.com/x1manPsychopath/WindowsGSM.Factorio/releases">
+    <img src="https://img.shields.io/github/v/release/x1manpsychopath/WindowsGSM.Factorio?style=for-the-badge&color=gold" alt="Latest Release">
   </a>
-  <img src="https://img.shields.io/badge/Factorio-Dedicated%20Server-orange" alt="Factorio">
-  <img src="https://img.shields.io/badge/WindowsGSM-Plugin-blue" alt="WindowsGSM">
+
+  <!-- Downloads -->
+  <a href="https://github.com/YOURNAME/WindowsGSM.Factorio/releases">
+    <img src="https://img.shields.io/github/downloads/x1manPscyhopath/WindowsGSM.Factorio/total?style=for-the-badge&color=blue" alt="Downloads">
+  </a>
+
+  <!-- Factorio Dedicated Server -->
+  <img src="https://img.shields.io/badge/Factorio-Dedicated%20Server-orange?style=for-the-badge" alt="Factorio">
+
+  <!-- WindowsGSM Plugin -->
+  <img src="https://img.shields.io/badge/WindowsGSM-Plugin-4A90E2?style=for-the-badge" alt="WindowsGSM Plugin">
+
+  <!-- License -->
+  <a href="LICENSE">
+    <img src="https://img.shields.io/github/license/x1manPsychopath/WindowsGSM.Factorio?style=for-the-badge&color=brightgreen" alt="License">
+  </a>
+
 </p>
 
 ---
-# WindowsGSM.Factorio  
+
 A fully updated and corrected WindowsGSM plugin for hosting **Factorio Dedicated Servers** using SteamCMD.
 
 This plugin fixes the issues found in older community versions, including:
@@ -96,4 +109,4 @@ See the `LICENSE` file for details.
 - Plugin rewritten and modernized by **Joshua + Copilot**
 - Original concept by Andy
 
-- ![Version](https://img.shields.io/github/v/release/x1manPsychopath/WindowsGSM.Factorio-main?style=flat-square&color=gold)
+- ![Version](https://img.shields.io/github/v/release/x1manPsychopath/WindowsGSM.Factorio?style=flat-square&color=gold)
